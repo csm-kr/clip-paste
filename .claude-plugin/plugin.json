@@ -1,0 +1,9 @@
+{
+  "name": "clip-paste",
+  "version": "0.1.0",
+  "description": "원격/devcontainer 환경에서 Windows 클립보드 이미지를 Ctrl+Shift+V 한 번으로 Claude Code 에 붙여넣기 (캡처 → scp → /paste).",
+  "author": {
+    "name": "csm-kr"
+  },
+  "keywords": ["clipboard", "paste", "image", "screenshot", "remote", "devcontainer", "ssh", "autohotkey"]
+}

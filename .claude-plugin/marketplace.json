@@ -1,0 +1,13 @@
+{
+  "name": "clip-paste",
+  "owner": {
+    "name": "csm-kr"
+  },
+  "plugins": [
+    {
+      "name": "clip-paste",
+      "source": "./",
+      "description": "원격/devcontainer 환경에서 Windows 클립보드 이미지를 Ctrl+Shift+V 로 Claude Code 에 붙여넣기."
+    }
+  ]
+}
