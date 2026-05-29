@@ -33,7 +33,7 @@
 ### 1) 플러그인 설치 (Claude Code)
 이 저장소를 마켓플레이스로 추가한 뒤 설치:
 ```
-/plugin marketplace add <github-user>/clip-paste
+/plugin marketplace add csm-kr/clip-paste
 /plugin install clip-paste
 ```
 또는 `commands/paste.md` 를 `~/.claude/commands/` 에 복사해도 `/paste` 가 전역으로 동작합니다.
